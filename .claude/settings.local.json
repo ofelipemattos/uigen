@@ -5,7 +5,10 @@
       "Bash(npm install:*)",
       "Bash(gh auth:*)",
       "Bash(git --version)",
-      "Bash(where git:*)"
+      "Bash(where git:*)",
+      "Bash(npm list:*)",
+      "Bash(npx vitest:*)",
+      "Bash(claude mcp:*)"
     ]
   }
 }
